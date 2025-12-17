@@ -1,0 +1,28 @@
+# === Unreal Engine ===
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+
+# === Build artifacts ===
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Crash reports ===
+crashinfo*
+
+# === Optional: ignore packaged builds ===
+Windows/
+Linux/
+Mac/
